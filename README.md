@@ -95,4 +95,4 @@ The Shiny app:
 
 Aleksandra Konopelska – 2025  –  Created as part of the university course **Programowanie w R (N24)**
 
-**Data source:** ➡️ [Global Plastic Waste 2023 – A Country Wise Analysis (Kaggle)](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis)
+**Data source** ➡️ [Global Plastic Waste 2023 – A Country Wise Analysis (Kaggle)](https://www.kaggle.com/datasets/prajwaldongre/global-plastic-waste-2023-a-country-wise-analysis)
