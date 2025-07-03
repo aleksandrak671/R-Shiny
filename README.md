@@ -4,6 +4,11 @@ An interactive R Shiny web application designed for exploring and presenting the
 
 ---
 
+## 🌐 Live App
+[Click here to launch the Shiny app](https://aleksandrak67.shinyapps.io/projektr/)
+
+---
+
 ## About this project
 
 This project was created as part of a university assignment. The goal was:
